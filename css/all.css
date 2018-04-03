@@ -49,6 +49,11 @@
 	* Global
 */
 
+/* 2018-04-03 : tkooda : disclaimer */
+div.disclaimer {
+	text-align: center;
+}
+
 /* 2018-04-03 : tkooda : center */
 html {
     display: table;
